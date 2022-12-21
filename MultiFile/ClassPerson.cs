@@ -13,7 +13,7 @@ public class Person
 		_weight = Weight;
 	}
 
-	public string Nane
+	public string Name
     {
 		get { return _name; }
 		set { _name = value; }
